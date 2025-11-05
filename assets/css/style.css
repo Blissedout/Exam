@@ -184,7 +184,6 @@ footer a {
 @media (max-width: 500px) {
   .navbar{
    flex-direction: column;
-   margin: auto;
   }
   .platform {
     grid-template-columns: 1fr;

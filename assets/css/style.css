@@ -129,6 +129,7 @@ nav ul li a:hover {
 .login form {
   display: flex;
   flex-direction: column;
+   margin-right: 20px;
 }
 
 .login p {
@@ -142,6 +143,7 @@ nav ul li a:hover {
   border: 1px solid #ccc;
   border-radius: 6px;
   margin-bottom: 15px;
+ 
 }
 
 .form-options {

@@ -183,7 +183,7 @@ footer a {
 }
 
 
-@media (max-width: 767px) {
+@media (max-width: 900px) {
   .navbar{
    flex-direction: column;
   }
